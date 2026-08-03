@@ -1,0 +1,6 @@
+{
+  "name": "MarketMind AI",
+  "description": "Enterprise Market Basket Analysis & Cross-Selling Intelligence Platform designed by Yash Dongare",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
